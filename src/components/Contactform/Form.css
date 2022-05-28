@@ -1,0 +1,53 @@
+.container1{
+width: inherit;
+height: 90vh;
+background-color: black;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.formcontainer{
+    width: 25vw;
+    height: 65vh;
+    background-color: white;
+    border-radius: 2vmax;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.head h2{
+font-weight: 300;
+    color: black;
+}
+.form{
+    width: inherit;
+    height: inherit;
+    display: flex;
+    justify-content: center;
+    padding: 0 2.5vmax;
+}
+.form input{
+    width: inherit;
+    height: 5vh;
+    border-radius: 2vmax;
+    outline: none;
+    padding: 1vmax 1vmax;
+    font-size: 1.5vmax;
+    font-family: gilroy;
+    font-weight: 300;
+    color: black;
+    margin-top: 2vmax;
+}
+.form button{
+    margin-top: 2vmax;
+    height: 5vh;
+    width: 19vw;
+    outline: none;
+    border-radius: 1vmax;
+
+
+
+}
